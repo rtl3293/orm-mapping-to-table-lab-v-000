@@ -39,4 +39,5 @@ class Student
     new_student = Self.new(name, grade)
     new_student.save
     new_student
+  end
 end
